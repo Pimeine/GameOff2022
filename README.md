@@ -3,7 +3,7 @@ Game Jam Game Off 2022
 
 To collaborators :
 
-► Do not delete the branch : Assets, Level 0, Level 1, Level 2, Level 3, Level 4 ; thanks.
+► Do not delete the branch : Level 0, Level 1, Level 2, Level 3, Level 4 ; thanks.
 
 ► You can create new branches to do test or separated modifications.
 
